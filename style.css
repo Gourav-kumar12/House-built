@@ -230,3 +230,58 @@ p4{
     justify-content: center;
     margin-top: -22px;
 }
+@media screen and (max-width: 480px) {
+       .last1  {
+        display: block;
+    }
+    .image img{
+        width: 300px;
+    }
+    .image-3 {
+        display: flex;
+    }
+    .box-2{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .navbar{
+        visibility: hidden;
+        clear: both;
+        float: left;
+        margin: 10px auto 5px 20px;
+        width: 28%;
+        display: none;
+    }
+    .box{
+        visibility: hidden;
+        clear: both;
+        float: left;
+        margin: 10px auto 5px 20px;
+        width: 28%;
+        display: none;
+    }
+    .text{
+        margin-top: 32px;
+    }
+    p1{
+        margin-left: 0px;
+    }
+    .image4{
+        visibility: hidden;
+        clear: both;
+        float: left;
+        margin: 10px auto 5px 20px;
+        width: 28%;
+        display: none;
+    }
+    .allbox{
+        margin-top: 36px;
+    margin-left: -48px;
+    }
+    .center{
+        height: 595px;
+    }
+    image img{
+        margin-left: 81px;
+    }
+    }
